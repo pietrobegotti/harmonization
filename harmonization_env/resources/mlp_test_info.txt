@@ -1,8 +1,0 @@
-mlp_test network info 
-
-multilayer mlp
-
-shared_hidden_dims = [16, 64, 128, 128, 128]
-actor_hidden_dims  = [128, 64, 64, 64, 64, 32]
-critic_hidden_dims = [128, 64, 64, 64, 32, 16]
-
