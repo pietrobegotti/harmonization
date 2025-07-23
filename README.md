@@ -44,7 +44,7 @@ Here's a complete example showing the main features:
 ```python
 
 import torch
-from harmonization_env import *
+from harmonization_env_package import *
 
 path_to_params = "..."
 env = HarmonizationEnv(device = 'cpu')
