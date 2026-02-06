@@ -16,6 +16,15 @@ Animations realized using [Manim](https://www.manim.community/), whose code can 
 
 <video src = "https://github.com/pietrobegotti/harmonization/main/animations/working_implementation.mp4"></video>
 
+### State space
+<video src="https://raw.githubusercontent.com/pietrobegotti/harmonization/main/animations/state_space.mp4"></video>
+
+### Model
+<video src="https://raw.githubusercontent.com/pietrobegotti/harmonization/main/animations/model.mp4"></video>
+
+### Working example
+<video src="https://raw.githubusercontent.com/pietrobegotti/harmonization/main/animations/working_implementation.mp4"></video>
+
 
 ## Package
 
@@ -106,6 +115,7 @@ vg = VideoGenerator('test0.mid', soundfont_path='FluidR3_GM.sf2')
 vg.get_video(output_filename='output.mp4')
 
 ```
+
 
 
 
