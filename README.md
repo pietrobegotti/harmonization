@@ -4,7 +4,7 @@
 
 Animations realized using [Manim](https://www.manim.community/), whose code can be found [Here](https://github.com/pietrobegotti/msdegree_presentation)
 
-## State space
+### State space
 
 <video src = "https://github.com/pietrobegotti/harmonization/main/animations/state_space.mp4"></video>
 
@@ -106,6 +106,7 @@ vg = VideoGenerator('test0.mid', soundfont_path='FluidR3_GM.sf2')
 vg.get_video(output_filename='output.mp4')
 
 ```
+
 
 
 
