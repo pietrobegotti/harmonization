@@ -1,3 +1,23 @@
+# Reinforcement Learning meets Music Theory: A Music-Driven Framework for melody harmonization
+
+# Theoretical background (animations)
+
+Animations realized using [Manim](https://www.manim.community/), whose code can be found [Here](https://github.com/pietrobegotti/msdegree_presentation)
+
+## State space
+
+<video src = "https://github.com/pietrobegotti/harmonization/main/animations/state_space.mp4"></video>
+
+## Model 
+
+<video src = "https://github.com/pietrobegotti/harmonization/main/animations/model.mp4"></video>
+
+## Working example
+
+<video src = "https://github.com/pietrobegotti/harmonization/main/animations/working_implementation.mp4"></video>
+
+##
+
 # Music Harmonization Package
 
 A Reinforcement Learning package to generate musical harmonies, starting from a general sequence of notes in the scale of C major. Outputs musical harmonies, MIDI files, and mp4 videos.
@@ -87,3 +107,4 @@ vg = VideoGenerator('test0.mid', soundfont_path='FluidR3_GM.sf2')
 vg.get_video(output_filename='output.mp4')
 
 ```
+
