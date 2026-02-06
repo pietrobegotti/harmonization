@@ -6,6 +6,8 @@ Animations realized using [Manim](https://www.manim.community/), whose code can 
 
 ### State space
 
+https://github.com/user-attachments/assets/cbf6e990-24db-4dea-8d9b-5043ece592c2
+
 <video src = "https://github.com/pietrobegotti/harmonization/main/animations/state_space.mp4"></video>
 
 ### Model
@@ -106,6 +108,7 @@ vg = VideoGenerator('test0.mid', soundfont_path='FluidR3_GM.sf2')
 vg.get_video(output_filename='output.mp4')
 
 ```
+
 
 
 
